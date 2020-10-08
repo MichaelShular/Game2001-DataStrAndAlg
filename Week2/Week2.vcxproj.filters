@@ -18,5 +18,8 @@
     <ClInclude Include="UnorderedArray.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="OrderedArray.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
