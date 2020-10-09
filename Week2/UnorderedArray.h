@@ -40,7 +40,7 @@ public:
 	}
 	void remove(int index)
 	{
-		assert(m_array != array);
+		assert(m_array != NULL);
 		
 		if(index >= m_numElements){
 			return;
